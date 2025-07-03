@@ -1,4 +1,4 @@
-# 🤖 Reply-X — Smart Tweet Sentiment & Auto-Reply Bot
+# 🤖 Reply-XY — Smart Tweet Sentiment & Auto-Reply Bot
 
 Reply-X is an ML & NLP-powered bot that analyzes tweet sentiments, detects sarcasm, filters spam, and auto-replies with smart, context-aware messages.
 
